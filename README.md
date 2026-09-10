@@ -115,7 +115,6 @@ bookstore-sql-analysis/
 │   ├── 05_advanced_analysis.sql
 │   └── 06_data_quality.sql
 │
-├── screenshots/
 │
 └── docs/
     └── data_dictionary.md
