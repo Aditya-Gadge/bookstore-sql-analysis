@@ -229,6 +229,6 @@ The supplied datasets should be treated as synthetic/educational data for this p
 
 **Aditya Gadge**
 
-GitHub: Add your GitHub profile URL here.
+GitHub: https://github.com/aditya-gadge
 
-LinkedIn: Add your LinkedIn profile URL here.
+LinkedIn: http://linkedin.com/in/aditya-gadge-30j05
